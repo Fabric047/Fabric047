@@ -1,7 +1,7 @@
 # ¡Hola! Soy Fabricio Paredes Caballero 👋
 
 🎓 Estudiante de **Ingeniería de Ciberseguridad** enfocado en seguridad ofensiva.  
-Estoy actualmente metido en retos prácticos, aprendiendo sobre solidity (smart contracts, etc) y criptomonedas.
+Estoy actualmente metido en pentesting web, red teaming, aprendiendo sobre solidity (smart contracts, etc) y más.
 
 ---
 
