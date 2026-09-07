@@ -20,7 +20,7 @@ Estoy actualmente metido en pentesting web, red teaming, aprendiendo sobre solid
 
 📊 [Mi Linkedin](https://www.linkedin.com/in/fabricioparedescaballero/)
 
-
+🤖 [Comunidad Reddit](https://www.reddit.com/r/UNI_LimaPeru/)
 
 ---
 
