@@ -19,9 +19,6 @@ Estoy actualmente metido en pentesting web, red teaming, aprendiendo sobre solid
 🎯 [Mi Perfil HackTheBox](https://profile.hackthebox.com/profile/019e526c-dfe5-722d-a67f-ff2225ff5ace?utm_medium=copy_url)
 
 📊 [Mi Linkedin](https://www.linkedin.com/in/fabricioparedescaballero/)
-
-🤖 [Comunidad UNI Reddit](https://www.reddit.com/r/UNI_LimaPeru/) (moderador :D)
-
 ---
 
 ### 🛠️ Tecnologías y Herramientas
